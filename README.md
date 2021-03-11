@@ -1,2 +1,2 @@
 # -c-Linux-cp-
-first step、
+first linux_c program、
